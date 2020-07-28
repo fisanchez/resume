@@ -19,64 +19,54 @@
 </h1>
 
 ## Experience
-<span> HERE Technologies - Alpharetta, GA </span> <span class="right"> August 2017 - Present </span> </br>
-<sub> Full Stack Web Developer </sub>  </br>
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
 
-## 工作经历
+### HERE Technologies - Alpharetta, GA </span> </br>
 
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
+<sub> Full Stack Web Developer <span class="right"> August 2017 - Present </span> </sub> </br>
+<sub class="description"> <i> Since joining, focus has been two-fold:  holistically designing and developing foundation and features of HERE’s product whileshaping our development team and intern program with a focus on hands-on learning.</i></sub> </br></br>
 
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
+- Designed and built rails web application, streamlining requesting and implementing firewall requests; resulting in a user wait time reduction of 80%
+- Develops user-centered solutions for network automation
+- Maintains back and front-end of several projects built in Ruby and VueJS
+- Built and manage REST API for an on-going configuration management database
+- Manage multiple RabbitMQ service workers for our Ruby projects
+- Handles importing and data sync from multiple data sources
 
-## 项目经验
+### HERE Technologies - Alpharetta, GA </br>
 
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
+<sub> Full Stack Web Developer Intern <span class="right"> August 2017 - Present </span> </sub> </br>
+<sub class="description"> <i> During this time I was responsible for converting ideas and vague requirements into a useful and intuitive application throughiterative research, design, and development all while continuing to learn the tooling and languages of the team.</i> </sub> </br> </br>
 
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- Led User and stakeholder research on a new project designed to improve efficiency of manual tasks by 80%
+- Prepared and facilitated weekly project demos to the stakeholders
+- Built front end for an interactive self service portal using jQuery
+- Built a Ruby JSON Web Token based authentication application for our web apps
 
+## Skills
+
+**Languages** - Ruby, JavaScript, HTML5, CSS3, SQL, Bash </br>
+**Frameworks** - Ruby on Rails, VueJS, RSpec, Cypress, JQuery, Bootstrap </br>
+**Utilities and Methodologies** - Linux,  Docker,  Docker  Swarm,  RabbitMQ,  Git,  GraphQL,  Gitlab  CI/CD,  Test  Driven Development, debugging tools for various languages </br>
+
+## Education
+
+### Year Up Greater Atlanta - Atlanta, GA 
+
+<span> Software development </span> <span class="right"> September 2017 - January 2017 </span> </br>
+- Year  Up  is  a  leading  one-year  career  development  program;  the  program  includes  college-level  courses,  professional training, and a six-month internship
+
+### Georgia State University - Dunwoody, GA
+
+<span class="subtitle"> Associate of Computer Science <span class="right"> August 2014 - May 2015</span> </span> 
+
+
+## Volunteering
+
+### Johnson STEM Activity Center
+<sub> Web developer curriculum director & Instructor <span class="right"> January 2020 - Present </span> </sub> </br>
+<sub class="description"><i> PresentJohnson STEM Activity Center offers coding classes once a week where students around the metro Atlanta area meet to learnweb development skills </i></sub></br>
+
+- Teach high school students web development using HTML, CSS and JavaScript
+- Writing weekly curriculum for future instructors
 ---
 
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
-
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2015.01 - 2016.01</span>
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
-## 技能描述
-
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
-
-## 自我评价
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
